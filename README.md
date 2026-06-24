@@ -33,3 +33,11 @@ Processing latency scales perfectly lineally with the input data payload magnitu
 * Python 3.11+
 
 ### Setup
+```bash
+# Clone the repository
+git clone [https://github.com/YOUR_USERNAME/dna-fault-tolerant-pipeline.git](https://github.com/YOUR_USERNAME/dna-fault-tolerant-pipeline.git)
+cd dna-fault-tolerant-pipeline
+
+# (Optional) Setup a virtual environment
+python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
